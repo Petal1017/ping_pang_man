@@ -1,0 +1,6 @@
+{
+    "files.associations": {
+        "ls1c102_i2c.h": "c",
+        "ls1x_printf.h": "c"
+    }
+}
